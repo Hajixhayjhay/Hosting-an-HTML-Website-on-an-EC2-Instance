@@ -1,5 +1,4 @@
-# Hosting-an-HTML-Website-on-an-EC2-Instance# README: EC2 Website Deployment
-
+# Hosting-an-HTML-Website-on-an-EC2-Instance#
 ## Project Overview
 This project showcases the successful deployment of a static HTML website on AWS EC2 instances using a robust reference architecture. The deployment emphasizes high availability, fault tolerance, security, and scalability, utilizing various AWS services to achieve a production-ready solution.
 
